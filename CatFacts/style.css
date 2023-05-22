@@ -1,0 +1,56 @@
+body{
+    padding: 10px;
+    font-family: 'Arial';
+    background-color: #FAEBD7;
+}
+#top{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: #D2691E
+}
+
+#detl{
+    color: #A0522D;
+    font-size: xx-large;
+}
+
+ul{
+    list-style: square;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    font-size: larger;
+}
+#searching{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#search{
+    height: 40px;
+    font-size: 35px;
+}
+
+#list{
+    cursor: default;
+}
+
+#delete {
+    background-color: red;
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+}
+
+#back{
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+    
+}
+
+#fact{
+    font-size: x-large;
+}
