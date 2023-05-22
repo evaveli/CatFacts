@@ -1,6 +1,8 @@
 # CatFacts
 
 CatFacts is a mini project that fetches data from an API and then perform these operations :
+
+
 -Show the list of facts.
 -Show the details of a certain fact.
 -Delete a certain fact.
